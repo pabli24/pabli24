@@ -6,11 +6,7 @@
 [![](https://www.google.com/s2/favicons?domain_url=https://www.transifex.com/user/profile/pabli/)](https://www.transifex.com/user/profile/pabli/) [transifex](https://www.transifex.com/user/profile/pabli/) | 
 [![](https://www.google.com/s2/favicons?domain_url=https://www.curseforge.com)](https://www.curseforge.com/members/pabli/) [CurseForge](https://www.curseforge.com/members/pabli/)
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A21YYBO)
-
-
-
-
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/pabli)
 
 
 
