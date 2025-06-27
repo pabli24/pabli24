@@ -2,7 +2,7 @@
 🦋[BlueSky](https://bsky.app/profile/pabli.dev)
 🖌️[UserStyles.world](https://userstyles.world/user/pabli)
 🍴[GreasyFork](https://greasyfork.org/users/124677-pabli)
-🌐[Transifex](https://www.transifex.com/user/profile/pabli/)
+🌐[Transifex](https://app.transifex.com/user/profile/pabli/)
 ⚒️[CurseForge](https://www.curseforge.com/members/pabli/)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/pabli)
